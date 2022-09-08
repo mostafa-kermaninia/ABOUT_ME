@@ -2,4 +2,4 @@
 - 👀 I’m interested in physics , guitar and python
 - 🌱 I’m currently learning Django(python) and Next.js(JavaScript)
 - 📫 How to reach me @mosiyo_kerry in telegram
-
+- 😁 You can see my linkedin : https://www.linkedin.com/in/mostafa-kermaninia/
